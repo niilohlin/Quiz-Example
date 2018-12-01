@@ -1,0 +1,85 @@
+{
+  "questions": [
+    {
+      "title": "What flag is this?",
+      "imageUrl": "liberia",
+      "alternatives": [
+        "Liberia",
+        "Puerto Rico",
+        "Texas",
+        "Washington D.C."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "title": "What year was the iPhone announced?",
+      "alternatives": [
+        "2007",
+        "2008",
+        "2006",
+        "2009"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "title": "What was the name of Hitlers dog?",
+      "alternatives": [
+        "Blondi",
+        "Goldi",
+        "Fido",
+        "Hans"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "title": "What of the following is not in the table of elements?",
+      "alternatives": [
+        "Phlogiston",
+        "Oganesson",
+        "Erbium",
+        "Seaborgium"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "title": "Who was the first man/men to climb Mount Everest",
+      "alternatives": [
+        "Tenzing Norgay/Edmund Hillary",
+        "George Everest",
+        "Neil Armstrong",
+        "Roald Amundsen/Robert Scott"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "title": "SPQR was the name of the roman empire, what does that stand for?",
+      "alternatives": [
+        "Senatus Populusque Romanus",
+        "Salvus Pater Que Romanum",
+        "Secundus Prosperus Quom Regero",
+        "Scitus Pertego Queo Rex"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "title": "What is the capitol of California?",
+      "alternatives": [
+        "Sacramento",
+        "Los angeles",
+        "San José",
+        "San fransisco"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "title": "What is the youngest letter of the English alphabet?",
+      "alternatives": [
+        "J",
+        "W",
+        "Z",
+        "Q"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}
